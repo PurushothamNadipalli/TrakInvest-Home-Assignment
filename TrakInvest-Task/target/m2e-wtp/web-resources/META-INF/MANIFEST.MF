@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: TrakInvest-Task
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: pnadipalli
+Implementation-Vendor-Id: com.trakInvest
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/TrakInvest-Task
+Created-By: Maven Integration for Eclipse
+
